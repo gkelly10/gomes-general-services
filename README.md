@@ -5,7 +5,7 @@
 
 This project was made for a general contracting company.
 
-<strong>Link to project:</strong> gomesgeneralservices.netlify.app
+<strong>Link to project:</strong> https://gomes-general-services.netlify.app/
 
 <img width="1230" alt="gomes-general-services-preview" src="https://github.com/user-attachments/assets/34974466-02c9-4782-b432-343167904f18">
 
